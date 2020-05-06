@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Hwang Seho\Desktop\shopping_project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+297651449.index
+1412675942.index
+134624971.index
+1243783537.index
+1721183227.index
+19568965.index
