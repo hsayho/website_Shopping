@@ -1,2 +1,13 @@
-# website_Shopping
-Simple Shopping Web Site
+# HSTORE(온라인 셀렉트숍)
+
+* 프로젝트 소개 :
+
+  - 3학년 1학기 오픈소스 웹 프로젝트 과목 중간고사 대체 과제
+  - HTML, JSP, Tomcat server, Mysql을 이용하여 본인이 선택한 컨셉에 맞는 웹을 구현할 것
+  - 홈페이지에 등록되는 아이템은 최소 50가지
+  
+
+Screenshots
+-------------
+
+
